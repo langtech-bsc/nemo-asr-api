@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+huggingface_hub==0.23.2
+cython
+librosa
